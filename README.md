@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 * 🌄 I am really enthusiastic about learning new technology
 * 🏀 Outside the world of tech too, I love pushing myself to develop new skills ranging from basketball 🏀, beatboxing 🎤, break dancing 🕺, touch typing ⌨️ (currently at 90wpm, goal is 120wpm) 
 * 🎵 I love listening to music as well.
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushallodd62&theme=algolia&title_color=89cff0&include_all_commits=true&count_private=true&show_icons=true" height="170px" alt="Kaushal's GitHub stats" />
+  <img align="center" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushallodd62&langs_count=8&hide=scss,css,html&layout=compact&card_width=350" height="170px" alt="Kaushal's programming language stats" />
+</p>
