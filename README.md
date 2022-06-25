@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **kaushallodd62/kaushallodd62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🚀 I'm Kaushal Lodd
+* 🌱 I'm pursuing B.Tech in Computer Science and Engineering at [link](VNIT Nagpur) (Batch of '23)
+* 👨‍💻 I'm interested in Problem Solving (DSA), DevOps, Web Development, Applicaton Development, Data Analysis and Machine Learning.
+* 🌄 I am really enthusiastic about learning new technology
+* 🏀 Outside the world of tech too, I love pushing myself to develop new skills ranging from basketball 🏀, beatboxing 🎤, break dancing 🕺, touch typing ⌨️ (currently at 90wpm, goal is 120wpm) 
+* 🎵 I love listening to music as well.
