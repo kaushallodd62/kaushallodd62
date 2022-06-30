@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 🌱 I'm pursuing B.Tech in Computer Science and Engineering at [VNIT Nagpur](https://vnit.ac.in/) (Batch of '23)
 * 👨‍💻 I'm interested in Problem Solving (DSA), DevOps, Web Development, Applicaton Development, Data Analysis and Machine Learning.
 * 🌄 I am really enthusiastic about learning new technology
-* 🏀 Outside the world of tech too, I love pushing myself to develop new skills ranging from basketball 🏀, beatboxing 🎤, break dancing 🕺, touch typing ⌨️ (currently at 90wpm, goal is 120wpm) 
+* 🏀 Outside the world of tech too, I love pushing myself to develop new skills ranging from basketball 🏀, beatboxing 🎤, break dancing 🕺, touch typing ⌨️ (currently at 90wpm) 
 * 🎵 I love listening to music as well.
 * 📫 You can reach me on my [LinkedIn Profile](https://linkedin.com/in/kaushal-lodd) or at my [e-mail](mailto:kaushallodd62@gmail.com)
 
