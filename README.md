@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 🚀 I'm Kaushal Lodd
 * 🌱 I'm pursuing B.Tech in Computer Science and Engineering at [VNIT Nagpur](https://vnit.ac.in/) (Batch of '23)
-* 👨‍💻 I'm interested in Problem Solving (DSA), DevOps, Web Development, Applicaton Development, Data Analysis and Machine Learning.
+* 👨‍💻 I'm interested in Problem Solving (DSA), DevOps, Web Development, Application Development, Data Analysis and Machine Learning.
 * 🌄 I am really enthusiastic about learning new technology
 * 🏀 Outside the world of tech too, I love pushing myself to develop new skills ranging from basketball 🏀, beatboxing 🎤, break dancing 🕺, touch typing ⌨️ (currently at 90wpm) 
 * 🎵 I love listening to music as well.
